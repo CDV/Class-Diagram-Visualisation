@@ -1,0 +1,3 @@
+Petit ajout d'un fichier .txt où l'on peut mettre ce qu'on a modifié/ajouté, etc ...
+
+!et en plus ça fait pro ! (ou pas)
